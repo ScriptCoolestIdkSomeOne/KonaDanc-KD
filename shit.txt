@@ -2,3 +2,10 @@ so we can just use idk sharpen algorithms and saturation to make image look cris
 
 also idk if im that dumbfucked but i think that i have a gud idea
 liek store a gif in some kind of array and i fucking forgot what i wanted to say 
+i remembered now
+so store a gif in an array and just make it bigger and somehow make it more cooler by tweakin shit(might make json file where default
+sheesh is), basically just a fakn photoshop but more ugly
+
+also maybe if i know much color theory then maaaaybeeeeee it's a good idea to implement some kind of "unshittify list" where all of
+the pale or wrong thingies are holded so that the algo can compare the colors and just tweak everything until it's looks crisp
+(THY SECTION WILL JUST USE FAKN TWEAKS AND NOT SOME A CUSTOM AI OR SOME PYTORCH SHIT because i suck)
